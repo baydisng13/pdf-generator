@@ -20,7 +20,7 @@ Once you have installed the required dependencies, you can run the code by follo
 2. In the project directory, run the following command:
 
 ```
-npm install
+pnpm install
 ```
 
 3. Run the following command to generate the PDF file:
